@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.log
+
+# Google OAuth tokens and credentials — never commit these
+credentials/google_credentials.json
+credentials/google_token.json
+.env
